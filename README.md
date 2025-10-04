@@ -76,9 +76,7 @@ We welcome contributions from developers, financial experts, and community leade
 - **Live Demo**: [NARIvITT Web App](https://narivitt.netlify.app/)
 - **Project Video**: [Watch Here](https://www.canva.com/design/DAGfR7IdsQI/mxV9ACOCH2zLQpxp8539gg/watch?utm_content=DAGfR7IdsQI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h57854fd58e)
 
-## Contributions
-- **[@PiyushRaj2005](https://github.com/PiyushRaj2005)** – Frontend & Backend Development
-- **[@YASHASWINIKSHRESTHA](https://github.com/YASHASWINIKSHRESTHA)** – AI & Machine Learning Development
+
 
 ## Acknowledgment
 This project was created for **EY Hackathon 5.0**, where we were **semifinalists** in the **Top 47 among 1,00,000+ participants**.
